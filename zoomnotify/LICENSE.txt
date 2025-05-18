@@ -1,0 +1,6 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2007 Free Software Foundation...
+
+[Shortened for brevity. Use the full GPLv3 text available here: https://www.gnu.org/licenses/gpl-3.0.txt]

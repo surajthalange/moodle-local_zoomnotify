@@ -1,0 +1,9 @@
+Changelog for Zoom Notification Plugin
+======================================
+
+v1.0 (2025-05-18)
+------------------
+- Initial release.
+- Sends email when a Zoom activity is created.
+- Includes configurable role filtering.
+- Adds logging via Events API.
